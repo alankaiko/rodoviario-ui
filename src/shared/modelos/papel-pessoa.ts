@@ -1,4 +1,4 @@
-import {AbstractEntity} from "../../core/AbstractEntity";
+import {AbstractEntity} from "../../core/modelos/AbstractEntity";
 import {Pessoa} from "./pessoa";
 import {TipoPessoa} from "./tipo-pessoa";
 import {UnidadeOperacional} from "./unidade-operacional";

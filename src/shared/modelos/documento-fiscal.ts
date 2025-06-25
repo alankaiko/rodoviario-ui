@@ -1,4 +1,4 @@
-import {AbstractEntity} from "../../core/AbstractEntity";
+import {AbstractEntity} from "../../core/modelos/AbstractEntity";
 
 export class DocumentoFiscal extends AbstractEntity {
     cdDocumentoFiscal: string;

@@ -1,4 +1,4 @@
-import {AbstractEntity} from "../../core/AbstractEntity";
+import {AbstractEntity} from "../../core/modelos/AbstractEntity";
 import {Contato} from "./contato";
 import {Endereco} from "./endereco";
 
